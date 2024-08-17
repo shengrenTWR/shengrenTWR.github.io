@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,7 @@ research project on cargo ship control and guidance algorithms, which aimed to e
 safety on the ocean and provide a comfortable experience for passengers.
 
 <!-- A data-driven personal website -->
-======
+<!-- ====== -->
 Mr. Huang has experience in both industrial companies and academic institutes. He served as an 
 R&D engineer at Kingstone Technology Company, where he conducted flash disk circuit design 
 and quality inspection, successfully creating the first circuit layout under strict EMI regulations. 
@@ -31,6 +31,6 @@ at creating a more convenient environment for people around the world.
 
 
 <!-- Getting started -->
-======
+<!-- ====== -->
 Mr. Huang has published three conference papers in the fields of space technology, computer 
 vision, and light pollution, serving as first and second author.

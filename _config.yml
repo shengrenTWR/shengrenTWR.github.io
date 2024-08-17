@@ -22,8 +22,8 @@ repository               : "shengrenTWR/shengrenTWR.github.io"
 author:
   # Biographic information
   avatar           : "ShengHu.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : # "Your Sidebar Name"
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Mr. Sheng-En Huang joined the University of Florida as a master's student in the Department of Electrical and Computer Engineering in August 2023. His domain background includes control engineering, computer vision, and artificial intelligence."
   location         : "Gainesville, FL"
   employer         : "University of Florida"

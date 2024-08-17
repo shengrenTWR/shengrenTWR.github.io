@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-07-31-paper-title-number-3
 excerpt: 'This paper is about  an interactive interface designed to survey, simulate, and visualize light-fields and light pollution
-maps in real-time'
+maps in real-time.'
 date: 2024-07-31
 venue: 'arXiv and now under review at the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'

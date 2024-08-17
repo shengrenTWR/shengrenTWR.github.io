@@ -2,7 +2,7 @@
 title: "A Satcom On-the-Move Phased-Array Antenna Tracking Algorithm on Robot Operating System"
 collection: publications
 # category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication2023-11-20-paper-title-number-1
 excerpt: 'This paper discusses the development of an on-the-move satellite communication algorithm for maintaining connectivity between LEO satellites and moving vehicles on the ground.'
 date: 2023-11-20
 venue: 'IEEE International Conference on Control, Automation and Systems (ICCAS)'

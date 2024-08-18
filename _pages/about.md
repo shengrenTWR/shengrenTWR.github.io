@@ -13,13 +13,16 @@ Mr. Huang executed several research projects and independent studies, including 
 <!-- A data-driven personal website -->
 <!-- ====== -->
 <details>
-<summary>Read more</summary> 
-Mr. Huang has experience in both industrial companies and academic institutes. He served as an R&D engineer at Kingstone Technology Company, where he conducted flash disk circuit design and quality inspection, successfully creating the first circuit layout under strict EMI regulations. Later, he joined Academia Sinica as a research assistant, focusing on indoor localization via monocular SLAM techniques to help navigate people in unfamiliar buildings. He then joined SpaceLab at National Cheng Kung University as a research assistant, advising undergraduate research projects and conducting CubeSat payload development. At SpaceLab, Mr. Huang collaborated with companies and government institutes to develop space-based technologies aimed at creating a more convenient environment for people around the world.
+<summary>Read more</summary>
 
+Mr. Huang has experience in both industrial companies and academic institutes. He served as an R&D engineer at Kingstone Technology Company, where he conducted flash disk circuit design and quality inspection, successfully creating the first circuit layout under strict EMI regulations. Later, he joined Academia Sinica as a research assistant, focusing on indoor localization via monocular SLAM techniques to help navigate people in unfamiliar buildings. He then joined SpaceLab at National Cheng Kung University as a research assistant, advising undergraduate research projects and conducting CubeSat payload development. At SpaceLab, Mr. Huang collaborated with companies and government institutes to develop space-based technologies aimed at creating a more convenient environment for people around the world.
 
 <!-- Getting started -->
 <!-- ====== -->
+
+
 Mr. Huang has published three conference papers in the fields of space technology, computer vision, and light pollution, serving as first and second author.
+
 </details>
 
 ![alt text](images/Cover photo.jpg "Cover")

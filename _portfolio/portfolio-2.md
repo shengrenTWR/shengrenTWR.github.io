@@ -8,7 +8,7 @@ Due to the presence of turbid mediums such as water droplets, particles, and san
 
 ![alt text](/images/Architecture.png)
 
-<br/>We test our model on the benchmark haze datasets [NH_Haze](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/) and [Dense_Haze](https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/). The results are shown in the table.
+<br/>We test our model on the haze datasets [NH_Haze](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/) and [Dense_Haze](https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/). The results are shown in the table.
 
 | NH_Haze || Dense_Haze ||
 | PSNR | SSIM | PSNR | SSIM |

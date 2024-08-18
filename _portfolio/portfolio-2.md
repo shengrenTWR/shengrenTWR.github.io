@@ -4,8 +4,7 @@ excerpt: "Short description of portfolio item number 2 <br/><img src='/images/de
 collection: portfolio
 ---
 
-The 
-
+Due to the turbid medium (such as water-droplets, particles, and sands), the haze 
 
 
 

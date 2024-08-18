@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (Feb. 2018 - June. 2018)"
 collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2014-spring-teaching-1

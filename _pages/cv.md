@@ -31,7 +31,11 @@ Work experience
   * Institute of Information Science, Academia Sinica
   * Duties included: Investigation on Panoramic Camera SLAM with Monocular Vision
   <!-- * Supervisor: Professor Hub --> 
-  
+
+* July. 2017 - Aug. 2017: Design Engineer (Flash R&D Intern)
+  * Kingston Technology Corporation in Taiwan
+  * Duties included: Implemented the NAND flash test board circuit design and evaluation
+
 Skills
 ======
 * Programming Languages: Python, C++/C, Matlab, Assembly Language

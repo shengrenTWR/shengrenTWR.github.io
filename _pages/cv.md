@@ -46,7 +46,7 @@ Skills
 * Robotics 
   * Robot Operating System
   * Robot Studio
-* Control Design
+* Control System
   * Modern Control Theory
   * Nonlinear System Theory
   * Optimal Control

@@ -9,7 +9,7 @@ Due to the presence of turbid mediums such as water droplets, particles, and san
 ![alt text](/images/Architecture.png)
 
 
-| NH_Haze | Dense_Haze |
+| NH_Haze || Dense_Haze ||
 | PSNR | SSIM | PSNR | SSIM |
 |:--------|:-------:|
 | 17.128   | 0.58787   | 15.407 | 0.4254 |

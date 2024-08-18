@@ -7,7 +7,7 @@ excerpt: 'This paper discusses the design, development, and early field experime
 date: 2024-05-17
 venue: 'Robots for Understanding Natural Ecosystems (RUNE) Workshop at IEEE International Conference
 on Robotics and Automation (ICRA)'
-slidesurl: 'https://docs.google.com/presentation/d/1IlrVeE-a-v0o2TFFBATgcoTfFQEJ0ami/edit?usp=sharing&ouid=115729596015443533627&rtpof=true&sd=true'
+slidesurl: 'http://shengrentwr.github.io/files/LPM_ICRA24_RUNE (Final).pptx.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'S. Huang, A. Abdullah, R. Chen, and M. J. Islam. (2024). &quot;Dynamic Light-field Sensing for Distributed Light Pollution Monitoring.&quot; <i>Robots for Understanding Natural Ecosystems (RUNE) Workshop at IEEE International Conference on Robotics and Automation (ICRA)</i>.'
 ---

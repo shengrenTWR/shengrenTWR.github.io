@@ -6,4 +6,4 @@ collection: portfolio
 
 To implement autonomous ship control, both guidance and control systems must be utilized. The guidance system is responsible for providing the reference signal that directs the ship to follow a predefined waypoint or path. The control system, on the other hand, involves designing a controller to track the reference signal, ensuring that the ship minimizes tracking errors and achieves stable and accurate performance.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5CmegF9PdI-G71TN" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sECGOwTzLh8" frameborder="0" allowfullscreen></iframe>

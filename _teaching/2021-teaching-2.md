@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 # permalink: /teaching/2015-spring-teaching-1
 venue: "National Chiao Tung Univeristy, College of Electrical and Computer Engineering"
 # date: 2015-01-01

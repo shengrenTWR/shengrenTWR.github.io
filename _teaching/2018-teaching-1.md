@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "undergraduate course"
+type: "Undergraduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "National Taiwan Ocean University, Department of Electrical Engineering"
 # date: 2014-01-01

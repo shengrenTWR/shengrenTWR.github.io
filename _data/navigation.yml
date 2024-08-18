@@ -10,12 +10,11 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
+  - title: "Selected Projects"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Selected Projects"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/

@@ -10,7 +10,7 @@ redirect_from:
 Prior to joining UF, Mr. Huang pursued his academic career in 
 Taiwan. He earned his Master of Science degree at National 
 Chiao Tung University, where his master's thesis was titled "Global Stability of Nonlinear Systems 
-with SDRE Control: A Feedback Domination Approach." [[MORE]] Mr. Huang executed several research 
+with SDRE Control: A Feedback Domination Approach." <!--more--> Mr. Huang executed several research 
 projects and independent studies, including work on autonomous vehicles for monitoring fruit 
 gardens and fault-tolerant control for spacecraft. Before his master's program, Mr. Huang received 
 his Bachelor of Science degree at National Taiwan Ocean University. There, he conducted a 

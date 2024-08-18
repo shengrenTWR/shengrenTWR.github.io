@@ -31,6 +31,7 @@ Work experience
   * Institute of Information Science, Academia Sinica
   * Duties included: Investigation on Panoramic Camera SLAM with Monocular Vision
   <!-- * Supervisor: Professor Hub --> 
+  
 Skills
 ======
 * Programming Languages: Python, C++/C, Matlab, Assembly Language

@@ -34,3 +34,5 @@ at creating a more convenient environment for people around the world.
 <!-- ====== -->
 Mr. Huang has published three conference papers in the fields of space technology, computer 
 vision, and light pollution, serving as first and second author.
+
+![alt text](images/Cover photo.jpg "Cover")

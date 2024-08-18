@@ -18,7 +18,7 @@ Mr. Huang has experience in both industrial companies and academic institutes. H
 
 <!-- Getting started -->
 <!-- ====== -->
-Mr. Huang has published three conference papers in the fields of space technology, computer vision, and light pollution, serving as first and second author.
+<br>Mr. Huang has published three conference papers in the fields of space technology, computer vision, and light pollution, serving as first and second author.
 
 
 

@@ -9,4 +9,4 @@ collection: portfolio
 
 
 
-![alt text](images/Architecture.png "arch")
+![alt text](images/Architecture.jpg "arch")

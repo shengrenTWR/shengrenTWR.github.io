@@ -17,17 +17,17 @@ Education
 
 Work experience
 ======
-* Aug. 2023 to Aug. 2024: Student Assistant & Graduate Assistant (includes tuition waiver, biweekly paycheck)
+* Aug. 2023 - Aug. 2024: Student Assistant & Graduate Assistant (includes tuition waiver, biweekly paycheck)
   * University of Florida
   * Duties includes: Investigation on Image dehazing, autonomous surface vehicle, and light pollution
   * Supervisor: Dr. Md Jahidul Islam
 
-* June 2022 to June 2023: Research Assistant
+* June 2022 - June 2023: Research Assistant
   * National Cheng Kung University
   * Duties included: Investigation on LEO space technologies.
   <!-- * Supervisor: Professor Hub -->
 
-* Sep. 2017 to May 2019: Research Assistant
+* Sep. 2017 - May 2019: Research Assistant
   * Institute of Information Science, Academia Sinica
   * Duties included: Investigation on Panoramic Camera SLAM with Monocular Vision
   <!-- * Supervisor: Professor Hub --> 

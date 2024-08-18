@@ -4,6 +4,6 @@ excerpt: "The goal of this project is to implement a line-of-sight-based guidanc
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+To implement autonomous ship control, both guidance and control systems must be utilized. The guidance system is responsible for providing the reference signal that directs the ship to follow a predefined waypoint or path. The control system, on the other hand, involves designing a controller to track the reference signal, ensuring that the ship minimizes tracking errors and achieves stable and accurate performance.
 
 <iframe width="560" height="315" src="https://youtu.be/sECGOwTzLh8?si=lWvOYgKhgsbaUCjk" frameborder="0" allowfullscreen></iframe>

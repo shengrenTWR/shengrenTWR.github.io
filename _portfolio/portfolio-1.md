@@ -1,6 +1,6 @@
 ---
 title: "Control and Guidance of Surface Vessel"
-excerpt: "The goal of this project is to implement a line-of-sight-based guidance system and an integrated PID controller.<br/><img src='/images/ship_control.JPG'>"
+excerpt: "The goal of this project is to implement a line-of-sight-based guidance system and an integrated PID controller.<br/><img src='/images/architecture (VLSM).JPG'>"
 collection: portfolio
 ---
 
